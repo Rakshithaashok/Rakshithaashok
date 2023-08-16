@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **java**
 
+- 💬 Ask me about **web development**
+
 - 📫 How to reach me **rakshithaashok247@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
