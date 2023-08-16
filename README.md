@@ -1,4 +1,4 @@
-#Hey there 👋
+<h1>hey there 👋</h1>
 <h3 align="center">I'm Rakshitha, an enthusiastic person who believes in turning ideas into reality.</h3>
 
 - 🌱 I’m currently learning **java**
