@@ -1,9 +1,7 @@
 <h1>hey there 👋</h1>
 <h3 align="center">I'm Rakshitha, an enthusiastic person who believes in turning ideas into reality.</h3>
 
-- 🌱 I’m currently learning **java**
-
-- 💬 Ask me about **web development**
+- 💬 Ask me about **Full Stack development**
 
 - 📫 How to reach me **rakshithaashok247@gmail.com**
 
